@@ -8,7 +8,7 @@
 		}
 	},
 	"license": "MIT",
-	"name" : "aichikudetudou/aces-php-sdk",
+	"name" : "aichikudetudou/aces-php-sdk-new",
 	"type" : "library",
 	"description": "aces php sdk",
 	"version": "1.0.0",
