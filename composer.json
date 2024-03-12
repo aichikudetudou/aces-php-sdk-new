@@ -4,7 +4,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"ACES\\" : "security"
+			"ACES\\" : "aces-php-sdk-new1"
 		}
 	},
 	"license": "MIT",
